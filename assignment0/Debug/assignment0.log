@@ -1,0 +1,46 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (assignment0.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Finalproject.cpp
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(54,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(87,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(88,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(89,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(91,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(117,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(117,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(120,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(120,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(121,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(122,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(122,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(140,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(139,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(138,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(147,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(146,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(145,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(154,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(155,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(156,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(171,67): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(171,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(171,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(179,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(180,26): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(291,79): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(472,50): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(480,9): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(505,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(518,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(539,45): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(539,33): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(542,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(594,21): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(594,34): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(595,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(596,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(597,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(598,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(706,41): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\prave\Desktop\FT\Projects\Snowman\assignment0\Finalproject.cpp(705,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Finalproject.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+  assignment0.vcxproj -> C:\Users\prave\Desktop\FT\Projects\Snowman\Debug\Final project.exe
